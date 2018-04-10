@@ -1,3 +1,5 @@
+[![PyCoin Core](http://bitbanco.eu/pycoin/pycoin-git-header.svg)
+
 Pycoin Core integration/staging tree
 =====================================
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
