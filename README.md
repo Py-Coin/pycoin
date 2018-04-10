@@ -4,6 +4,7 @@ Pycoin Core integration/staging tree
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 https://py-coin.com
+----------------
 What is PyCoin?
 ----------------
 PyCoin is an experimental digital currency that enables instant payments to
