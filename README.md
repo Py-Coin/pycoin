@@ -2,7 +2,6 @@ Pycoin Core integration/staging tree
 =====================================
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Build Status](https://travis-ci.org/py-coin/pycoin.svg?branch=master)](https://travis-ci.org/py-coin/pycoin)
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 
 
 
