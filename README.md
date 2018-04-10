@@ -2,7 +2,7 @@ Pycoin Core integration/staging tree
 =====================================
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Build Status](https://travis-ci.org/py-coin/pycoin.svg?branch=master)](https://travis-ci.org/py-coin/pycoin)
-[![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 
 
 
