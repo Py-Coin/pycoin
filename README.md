@@ -1,4 +1,4 @@
-[![PyCoin Core](http://bitbanco.eu/pycoin/pycoin-git-header.svg)
+[![PyCoin Core](https://py-coin-website.vercel.app/images/logo.svg)
 
 Pycoin Core integration/staging tree
 =====================================
