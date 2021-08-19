@@ -1,4 +1,4 @@
-[![PyCoin Core](https://py-coin-website.vercel.app/images/logo.svg)
+![PyCoin Core](https://py-coin-website.vercel.app/images/logo.svg)
 
 Pycoin Core integration/staging tree
 =====================================
